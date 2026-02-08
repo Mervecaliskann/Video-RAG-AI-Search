@@ -43,8 +43,7 @@ This project is a high-performance **AI Video Search Engine** that enables **sem
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Mervecaliskann/Video-RAG-AI-Search.git](https://github.com/Mervecaliskann/Video-RAG-AI-Search.git)
-cd Video-RAG-AI-Search
+git clone https://github.com/Mervecaliskann/Video-RAG-AI-Search.git
 ```
 
 ### 2. Install Dependencies
