@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+pinecone-client
+sentence-transformers
+torch
+Pillow
+python-dotenv
+numpy<2.0
+filelock<3.13
