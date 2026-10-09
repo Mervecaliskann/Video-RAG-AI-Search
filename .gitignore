@@ -3,3 +3,4 @@ __pycache__/
 temp_frames/
 *.mp4
 *.mov.venv/
+*.db
